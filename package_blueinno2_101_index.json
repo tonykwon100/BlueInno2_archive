@@ -2,7 +2,7 @@
    "packages":[
       {
          "name":"BlueInno2",
-         "maintainer":"BlueInno2",
+         "maintainer":"BlueInno",
          "websiteURL":"http://www.blueinno.co.kr",
          "email":"dwlee@blueinno.co.kr",
          "help":{
@@ -14,10 +14,10 @@
                "architecture": "BlueInno2",
                "version": "1.0.1",
                "category": "Arduino",
-               "url": "https://github.com/tonykwon100/BlueInno2_archive/blob/master/BlueInno2_101.tar.gz",
+               "url": "https://github.com/tonykwon100/blueinno2.archive/raw/master/BlueInno2_101.tar.gz",
                "archiveFileName": "BlueInno2_101.tar.gz",
-               "checksum": "SHA-256:e42c083fbdad08fa662534f1fb3c440b8ca81f5125b76789c096f1cd90704855",
-               "size": "38591614",
+               "checksum": "SHA-256:a563eee5449b4f34d85bd7787403a5b0c59e086bc4f00f7d6f6794626044d0a9",
+               "size": "38516361",
                "help":{
                   "online":"http://forum.blueinno.co.kr"
                },
